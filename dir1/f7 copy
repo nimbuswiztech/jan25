@@ -1,0 +1,63 @@
+Basic:
+• What is AWS?
+• Explain the different types of cloud services offered by AWS.
+• What are EC2 instances? Role What are different instance types and their use cases?
+• What is S3 and how is it used for storage?
+• Explain Role and its Role in access control.
+• What is IAM and why is it important for security?
+• What are CloudWatch and CloudTrail used for?
+
+
+dsadjgasjg
+
+07.05 11:37 AM
+Sonarqube installation
+Install the docker first
+
+This command used to login to the dockerhub 
+1  docker login
+   enter the user name and password of dockerhub
+
+
+This command used to download the docker images from dockerhub 
+2  docker pull sonarqube
+
+
+This command used to check docker images
+3  docker images
+
+
+this command used run docker images along with port number
+4  docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
+
+
+This command used to check all the docker container 
+5  docker ps -a
+
+
+This command used to start the docker container
+6  docker start sonarqube
+
+This command changes the restart policy for an already running container named sonarqube
+7  docker update --restart unless-stopped sonarqube
+
+
+This command used to check all the running docker container 
+8  docker ps
+
+
+Open your browser and enter the IP address of your web server plus :9000
+
+the following URL was entered in the Browser:
+
+• http://<IP address>:9000
+
+The SonarQube dashboard will be presented.
+
+Click on the Login button and use the Sonarqube default username and password.
+
+• Default Username: admin
+• Default Password: admin
+
+
+

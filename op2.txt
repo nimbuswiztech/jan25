@@ -1,0 +1,22 @@
+total 80
+drwxr-xr-x  2 apple  staff    64 Jan  9 08:08 d2
+drwxr-xr-x  2 apple  staff    64 Jan  6 08:55 day12
+drwxr-xr-x  2 apple  staff    64 Jan  6 08:55 day13
+drwxr-xr-x  8 apple  staff   256 Jan  9 08:34 dir1
+drwxr-xr-x  8 apple  staff   256 Jan  9 08:35 dir6
+-rw-r--r--  1 apple  staff     0 Jan  7 08:26 e1
+-rw-r--r--  1 apple  staff     0 Jan  7 08:26 e2
+-rw-r--r--  1 apple  staff     0 Jan  7 08:26 e3
+-rw-r--r--  1 apple  staff   322 Jan 10 08:05 emp
+-rw-r--r--  1 apple  staff   163 Jan 10 07:54 emp_name
+-rw-r--r--@ 1 apple  staff    14 Jan  6 09:13 f1.pdf
+-rw-r--r--@ 1 apple  staff     0 Jan  6 08:57 f1.txt
+-rw-r--r--@ 1 apple  staff  1548 Jan  9 08:27 f2
+-rw-r--r--@ 1 apple  admin    54 Jan  7 07:53 f3
+-rw-r--r--  1 apple  staff   471 Jan  7 07:56 f4
+-rw-r--r--  1 apple  staff     0 Jan  9 08:06 f5
+-rw-r--r--@ 1 apple  staff   377 Jan  9 08:31 f7
+-rw-------@ 1 apple  staff  1678 Jan 13 08:04 linux25.pem
+-rw-r--r--  1 apple  staff  1084 Jan 13 08:45 op.txt
+drwxr-xr-x  9 apple  staff   288 Jan 13 08:39 rsyncfiles
+-rw-r--r--  1 apple  staff    10 Jan 13 08:37 t3
