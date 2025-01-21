@@ -10,3 +10,4 @@ echo "$i service is stopped please take some action"
 fi
 done
 
+testing git pull 
